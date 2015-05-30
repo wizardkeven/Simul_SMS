@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\pre-dexed\debug\classes-b4d55ad65a987812fddca62a202cb06e0f455332.jar" />
+    </item>
+    <item
+        jar="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\pre-dexed\debug\classes-c8f469a8c52b0f1091597248ec8855db7b5a151e.jar" />
+    </item>
+    <item
+        jar="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-9b0186799c61cc68a7b7e02a40b51fc402b21e15.jar" />
+    </item>
+    <item
+        jar="D:\sdk\sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="C:\Users\wizar_000\AndroidStudioProjects\Simul_SMS\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-4702ea6417e87a63770e546584abdc6312972d12.jar" />
+    </item>
+
+</items>
